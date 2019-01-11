@@ -8,8 +8,10 @@ This example is to show different parts of the Git respo and various commands us
 
 ## Purpose
 
+To learn git
+
 ## Deployment
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos or local web server
 
 ## How To Contribute
