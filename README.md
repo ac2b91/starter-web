@@ -16,6 +16,7 @@ Sample website with plenty of files for demos or local web server
 
 ## How To Contribute
 
+Adding text to learn automatic merges
 
 ### Copyright
 
