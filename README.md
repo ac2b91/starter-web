@@ -15,3 +15,8 @@ To learn git
 Sample website with plenty of files for demos or local web server
 
 ## How To Contribute
+
+
+### Copyright
+
+2014 Git.Training.
