@@ -19,4 +19,4 @@ Sample website with plenty of files for demos or local web server
 
 ### Copyright
 
-2014 Git.Training.
+2014 Git.Training. Updating copyright.
